@@ -1,0 +1,17 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [
+    "Ngoc Duy <ngduy.ng98@gmail.com>"
+  ],
+  "description": "",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ngduyng98/bower_components",
+  "ignore": [
+    "README.md"
+  ]
+}
